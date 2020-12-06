@@ -1,0 +1,8 @@
+
+*** other.js adında bir javascript dosyası oluşturun ve aşağıdaki metni yazdırın!!!
+
+*** "JavaScript Dünyasına Hoşgeldiniz"
+
+
+*** JavaScript Dosyanızı Index.html e referans veriniz.
+
