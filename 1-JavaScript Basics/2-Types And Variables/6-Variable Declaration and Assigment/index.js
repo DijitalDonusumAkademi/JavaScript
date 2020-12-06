@@ -69,7 +69,17 @@ console.log(myBoolean);
 // Hata alırız !!! console.log(myBoolean);
 */
 
+/**
+ * CHALLANGE 1
+ *
+ * Declare variable "myObject" and assign value {}.
+ * Print this variable to the console.
+ * NOTE: variable "myObject" will NOT be reassigned in the future
 
+const myObject = {};
+console.log(myObject);
 
+hata Alırız!!! myObject = {};
+*/
 
 
